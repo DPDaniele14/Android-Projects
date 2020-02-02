@@ -1,2 +1,2 @@
-# dummy-repo
-Dummy repo for example projects
+# Android-Projects
+Android repository for tutorial projects
